@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/39033.png);
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-color: rgb(103, 144, 221);
+    color: white;
+    font-family: monospace; 
+    font-size: 20px;
+    height: auto;
+}
+header{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+form{
+    background-color: rgb(34, 17, 66);
+    opacity: 0.8;
+    margin: 0 50px;
+}
+fieldset{
+    border: none;
+    padding: 0 50px;
+    margin: 0 0 10px 0
+}
+input, textarea, select{
+    width: 100%;
+    margin: 0 0 10px 0
+    height: 20px;
+    
+}
+.inline{
+    width: unset;
+}
+label{
+    display: block;
+}
+.increased-input{
+    height: 35px;
+}
